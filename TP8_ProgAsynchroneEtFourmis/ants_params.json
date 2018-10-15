@@ -1,0 +1,16 @@
+{
+  "width":10,
+  "height":10,
+  "ant_count":1,
+  "ants":[
+    {
+      "color":"R",
+      "follow_color":"B",
+      "pg":0.5,
+      "pd":0.5,
+      "pt":0.5,
+      "move_type":"Do",
+      "ps":0.5
+    }
+  ]
+}
