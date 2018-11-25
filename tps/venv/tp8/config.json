@@ -1,0 +1,59 @@
+{
+  "world_width": 100,
+  "world_height": 100,
+  "iterations_count": 100,
+  "ants": [
+    {
+      "size": 3,
+      "color_red": 0.8,
+      "color_green": 0.2,
+      "color_blue": 0.1,
+      "follow_color_red": 0.1,
+      "follow_color_green": 0.8,
+      "follow_color_blue": 0.2,
+      "left_proba": 0.2,
+      "right_proba": 0.2,
+      "move_type": "Do",
+      "follow_proba": 0.5
+    },
+    {
+      "size": 3,
+      "color_red": 0.1,
+      "color_green": 0.8,
+      "color_blue": 0.2,
+      "follow_color_red": 0.2,
+      "follow_color_green": 0.1,
+      "follow_color_blue": 0.8,
+      "left_proba": 0.2,
+      "right_proba": 0.2,
+      "follow_proba": 0.5,
+      "move_type": "Do"
+    },
+    {
+      "size": 3,
+      "color_red": 0.2,
+      "color_green": 0.1,
+      "color_blue": 0.8,
+      "follow_color_red": 0.8,
+      "follow_color_green": 0.2,
+      "follow_color_blue": 0.1,
+      "left_proba": 0.2,
+      "right_proba": 0.2,
+      "follow_proba": 0.5,
+      "move_type": "Do"
+    },
+    {
+      "size": 3,
+      "color_red": 0.8,
+      "color_green": 0.2,
+      "color_blue": 0.1,
+      "follow_color_red": 0.1,
+      "follow_color_green": 0.8,
+      "follow_color_blue": 0.2,
+      "left_proba": 0.2,
+      "right_proba": 0.2,
+      "follow_proba": 0.5,
+      "move_type": "Do"
+    }
+  ]
+}
