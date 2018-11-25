@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f0ef127-82e5-48b8-85a3-1c8390660b9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/tp7/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp7/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/tp7/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp7/tp7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/country" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp123456/tp6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +30,12 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="country" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -135,8 +144,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/tp7/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="758">
+              <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -240,12 +249,6 @@
               <item name="tps" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tps" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="tp7" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -347,7 +350,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tp123456/tp2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +372,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tp123456/tp6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,14 +479,14 @@
     <entry file="file://$PROJECT_DIR$/venv/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp1.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp4.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
@@ -493,7 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp3.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1095">
           <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
@@ -503,7 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp5.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
@@ -513,7 +516,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp6.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
@@ -524,7 +527,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp2.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp123456/tp2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
@@ -635,8 +638,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/tp7/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="758">
+          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
