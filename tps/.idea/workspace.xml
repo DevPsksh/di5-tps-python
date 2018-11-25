@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f0ef127-82e5-48b8-85a3-1c8390660b9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tps.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/tp7/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp7/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/tp7/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tp7/tp7.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +45,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="24" />
-          <entry key="dummy" value="59" />
-          <entry key="py" value="2342" />
+          <entry key="dummy" value="62" />
+          <entry key="py" value="2351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="2366" />
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="Python" value="2375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
           <entry key="json" value="2" />
-          <entry key="py" value="61" />
+          <entry key="py" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Ini" value="1" />
           <entry key="JSON" value="2" />
-          <entry key="Python" value="61" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -106,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/tp8/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="85" column="85" lean-forward="true" selection-start-line="85" selection-start-column="85" selection-end-line="85" selection-end-column="85" />
+            <state relative-caret-position="90">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -116,10 +115,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/tp7/server.py">
+        <entry file="file://$PROJECT_DIR$/venv/tp7/tp7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/tp7/userpage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -127,8 +135,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/tp7/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="365">
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/tp7/create_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,9 +167,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>create</find>
       <find>user</find>
       <find>.py</find>
+      <find>createu</find>
+      <find>create</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,8 +184,6 @@
         <option value="$PROJECT_DIR$/tp3.py" />
         <option value="$PROJECT_DIR$/tp7.py" />
         <option value="$PROJECT_DIR$/index.py" />
-        <option value="$PROJECT_DIR$/venv/tp7/tp7.py" />
-        <option value="$PROJECT_DIR$/venv/tp7/userpage.py" />
         <option value="$PROJECT_DIR$/tp1.py" />
         <option value="$PROJECT_DIR$/tp4.py" />
         <option value="$PROJECT_DIR$/tp5.py" />
@@ -173,8 +195,6 @@
         <option value="$PROJECT_DIR$/venv/TP8/main.py" />
         <option value="$PROJECT_DIR$/venv/TP8/config.json" />
         <option value="$PROJECT_DIR$/tp2.py" />
-        <option value="$PROJECT_DIR$/venv/tp7/server.py" />
-        <option value="$PROJECT_DIR$/venv/tp7/create_user.py" />
         <option value="$PROJECT_DIR$/venv/tp7/initial_page.py" />
         <option value="$PROJECT_DIR$/venv/tp8/ant.py" />
         <option value="$PROJECT_DIR$/venv/tp8/color.py" />
@@ -182,6 +202,10 @@
         <option value="$PROJECT_DIR$/venv/tp8/config.py" />
         <option value="$PROJECT_DIR$/venv/tp8/afficheur.py" />
         <option value="$PROJECT_DIR$/venv/tp8/main.py" />
+        <option value="$PROJECT_DIR$/venv/tp7/server.py" />
+        <option value="$PROJECT_DIR$/venv/tp7/userpage.py" />
+        <option value="$PROJECT_DIR$/venv/tp7/create_user.py" />
+        <option value="$PROJECT_DIR$/venv/tp7/tp7.py" />
         <option value="$PROJECT_DIR$/venv/tp7/index.py" />
       </list>
     </option>
@@ -193,10 +217,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="y" value="-132" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -223,10 +245,6 @@
               <item name="tps" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="tp7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -370,7 +388,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tp7/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tp7/tp7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,8 +407,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.tp7" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.tp2" />
         <item itemvalue="Python.tp6" />
       </list>
@@ -419,10 +437,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-132" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10969116" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16639742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,7 +454,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.2019802" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.25742576" />
+      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.3561644" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,23 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/tp7/userpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/tp7/create_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="43" column="37" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/tp7/initial_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -600,25 +601,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/tp8/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="85" column="85" lean-forward="true" selection-start-line="85" selection-start-column="85" selection-end-line="85" selection-end-column="85" />
+        <state relative-caret-position="90">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/tp7/server.py">
+    <entry file="file://$PROJECT_DIR$/venv/tp7/create_user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="645">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tp7/userpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tp7/tp7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/tp7/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        <state relative-caret-position="365">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
